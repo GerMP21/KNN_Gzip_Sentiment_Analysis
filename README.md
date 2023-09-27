@@ -1,6 +1,7 @@
 # Sentiment Analysis using NCD and K-Nearest Neighbors
 
 This project involves sentiment analysis on a dataset of Dell-related tweets. Sentiment analysis is a process of determining the sentiment or emotion expressed in a text. In this code, we use the Normalized Compression Distance (NCD) as a feature to perform sentiment classification using the K-Nearest Neighbors (KNN) algorithm.
+
 ## Dependencies
 
     Python 3.x
